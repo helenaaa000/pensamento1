@@ -4,5 +4,5 @@ background: plum ;
 }
 
 header {
-    border: solid 3px purple;
+    border-bottom: solid 3px purple;
 }
