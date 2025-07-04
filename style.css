@@ -5,14 +5,13 @@ margin: 0px;
 }
 
 header {
-    border-bottom: solid 3px purple;
+border-bottom: solid 3px purple;
 padding: 20px;
 font-size: 32px;
 color: purple;
 }
 
 .chamada {
-
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -30,6 +29,7 @@ h1 {
 p {
 font-size: 20px;
 }
+
 img{
 height: 200px;
 }
@@ -47,4 +47,6 @@ section {
 
 .categoria-videos img {
 opacity: 0.5;
+height: 200px;
+
 }
